@@ -14,5 +14,6 @@ public class App {
 
     public static void getDate(){
         System.out.println(new Date());
+        System.out.println("132");
     }
 }
